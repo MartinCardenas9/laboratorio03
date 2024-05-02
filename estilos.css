@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(67, 197, 197);
+    font-family: 'Roboto', sans-serif;
+ }
+ h1{
+    text-align: center;
+ }
+ img{
+    width: 70%;
+    align-items:end;
+ }
+ td{
+    
+    font-weight:bold;
+    text-align: center;
+    font-size: large;
+ }
