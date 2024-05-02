@@ -1,17 +1,31 @@
 body{
-    background-color: rgb(67, 197, 197);
+    background-color: rgb(42, 170, 212);
     font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+ }
+ table{
+   width: 100%;
+   border-collapse: collapse;
  }
  h1{
     text-align: center;
  }
- img{
-    width: 70%;
-    align-items:end;
+ h2{
+   font-size:large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
  }
- td{
-    
-    font-weight:bold;
+
+ thead{
+  
     text-align: center;
-    font-size: large;
+    font-size: 18px;
  }
+ th, td {
+   border: 1px solid #ddd;
+   padding: 8px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th {
+   background-color: #f2f2f2;
+}
